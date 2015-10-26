@@ -1,0 +1,92 @@
+body
+{
+	background: #eee;
+}
+
+#div1
+{
+	background: #ddd;
+	width: 960px;
+	height: 760px;
+}
+
+#div2
+{
+	background: #eee;
+	width: 940px;
+	height: 120px;
+	margin: 10px 10px 10px 10px;
+	float: left;
+}
+
+#div3
+{
+	background: #eee;
+	width: 940px;
+	height: 60px;
+	margin: 0px 10px 0px 10px;
+	float: left;
+}
+
+#div4
+{
+	background: #eee;
+	width: 940px;
+	height: 540px;
+	margin: 10px 10px 10px 10px;
+	float: left;
+}
+
+#div5
+{
+	background: #eee;
+	width: 940px;
+	height: 540px;
+	margin: 10px 10px 10px 10px;
+	float: left;
+	display: none;
+}
+
+#div6
+{
+	background: #eee;
+	width: 940px;
+	height: 540px;
+	margin: 10px 10px 10px 10px;
+	float: left;
+	display: none;
+}
+
+#div7
+{
+	background: #eee;
+	width: 940px;
+	height: 540px;
+	margin: 10px 10px 10px 10px;
+	float: left;
+	display: none;
+}
+
+.btn
+{
+	background: #dedede;
+	width: 100px;
+	height: 40px;
+	margin: 10px 10px 10px 10px;
+}
+
+h1
+{
+	border-bottom: 2px solid #888;
+}
+
+fieldset
+{
+	width: 350px;
+	height: 150px;
+}
+
+.txt
+{
+	background: transparent;
+}

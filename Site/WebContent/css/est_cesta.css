@@ -1,0 +1,116 @@
+@CHARSET "UTF-8";
+
+body{
+	background: #def;
+	text-align: center;
+}
+
+#painelCentral{
+	background: #acd;
+	width: 700px;
+	height: 400px;
+	margin: auto;
+}
+
+#painelProdutos{
+	background: #aef;
+	width: 680px;
+	height: 280px;
+	float: left;
+	margin: 10px 10px 5px 10px;
+}
+
+#exclui{
+	background: #fdf;
+	width: 50px;
+	height: 18px;
+	float: absolute;
+	margin: auto;
+}
+
+#TitDescr{
+	background: #eef;
+	width: 150px;
+	height: 18px;
+	float: absolute;
+	margin: auto;
+}
+
+#descricao{
+	background: #fdf;
+	width: 150px;
+	height: 18px;
+	float: absolute;
+	margin: auto;
+}
+
+#TitQuant{
+	background: #eef;
+	width: 150px;
+	height: 18px;
+	float: left;
+	margin: auto;
+}
+
+#quantidade{
+	background: #fdf;
+	width: 150px;
+	height: 18px;
+	float: left;
+	margin: auto;
+}
+
+#TitValUnit{
+	background: #eef;
+	width: 150px;
+	height: 18px;
+	float: left;
+	margin: auto;
+}
+
+#valorUnit{
+	background: #fdf;
+	width: 150px;
+	height: 18px;
+	float: left;
+	margin: auto;
+}
+
+#painelInferior{
+	background: #aef;
+	width: 680px;
+	height: 95px;
+	float: left;
+	margin: 0px 10px 10px 10px;
+}
+
+#TitValTot{
+	background: #eef;
+	width: 150px;
+	height: 18px;
+	float: left;
+	margin: auto;
+}
+
+#valorTotal{
+	background: #fdf;
+	width: 150px;
+	height: 18px;
+	float: left;
+	margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
